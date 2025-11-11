@@ -1,3 +1,4 @@
+
 # Tugas Praktikum 9 DPBO – Sistem Akademik (MVC Pattern)
 
 Tugas ini merupakan bagian dari **Tugas Praktikum 9** mata kuliah **Desain Pemrograman Berorientasi Objek (DPBO)**.  
@@ -123,7 +124,7 @@ public function create() {
 
 - Halaman daftar Students
 
-📷 Dokumentasi
+## Dokumentasi
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7ea4e7d3-bb7a-4872-89b3-00a3f33c4e8a" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/953775dd-e304-49e9-8de1-4c74257e4e2c" />
 <img width="1920" height="1020" alt="Screenshot 2025-11-12 031409" src="https://github.com/user-attachments/assets/c13f1171-3560-4954-a370-6a92de75921a" />
@@ -133,3 +134,9 @@ public function create() {
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea926fa8-ae5a-4173-8ded-e696ca93ceb9" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0a2ac4e9-ff75-4ef1-aafc-bdb3d7d3cd02" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4734d4a8-78cf-4058-b8c1-c38ccba9857e" />
+
+### Run Program
+https://github.com/user-attachments/assets/0af1ad6e-04e9-46df-ba52-3dadeca01596
+
+
+

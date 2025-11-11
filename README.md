@@ -8,7 +8,7 @@ Pada praktikum ini, saya mengembangkan **Sistem Informasi Akademik sederhana** b
 
 ## ✍️ Janji
 
-Saya **[Nama Kamu]** dengan NIM **[NIM Kamu]** mengerjakan Tugas Praktikum 9 dalam Mata Kuliah **Desain Pemrograman Berorientasi Objek (DPBO)**.  
+Saya Muhammad Adwar Salman dengan NIM 2401539 mengerjakan Tugas Praktikum 8 dalam Mata Kuliah **Desain Pemrograman Berorientasi Objek (DPBO)**.  
 Untuk keberkahan-Nya, maka saya **tidak melakukan kecurangan** seperti yang telah dispesifikasikan.  
 **Aamiin.**
 
